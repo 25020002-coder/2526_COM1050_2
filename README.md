@@ -1,2 +1,5 @@
 # 2526_COM1050_2
-echo "My LeetCode profile: https://leetcode.com/u/usgaqT1IWE/"
+# 2526_COM1050_2
+
+- LeetCode: https://leetcode.com/u/usgagT1IWE/
+
